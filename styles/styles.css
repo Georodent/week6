@@ -82,10 +82,6 @@ span  {
 	color: red;
 }
 
-section p:nth-child(6)  {
-	color: red;
-}  
-
 .star  {
 	display: inline-block;
 	position: relative;
